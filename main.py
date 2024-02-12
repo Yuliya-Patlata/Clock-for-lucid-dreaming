@@ -18,7 +18,7 @@ lucid_interval ( например 40 минут
 (для  тестирования указывать lucid_interval 40 - 170 секунд,
 поскольку длительность  мелодии варгана 28 сек   )) .
 '''
-
+# автор Юлія Патлата, Київ
 # https://realpython.com/playing-and-recording-sound-python/
 # from os import system  # работает под виндой
 from pydub import AudioSegment  # под линукс работает, а под виндой не знаю
